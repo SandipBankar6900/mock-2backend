@@ -40,5 +40,34 @@
       "category": "Music",
       "price": 400
     }
+  ],
+  "bikes": [
+    {
+      "brand": "Trek",
+      "model": "X-Caliber 9",
+      "type": "Mountain Bike",
+      "year": 2022,
+      "color": "Blue",
+      "price": 1200.00,
+      "features": ["Front Suspension", "Disc Brakes", "Aluminum Frame"]
+    },
+    {
+      "brand": "Giant",
+      "model": "Defy Advanced 2",
+      "type": "Road Bike",
+      "year": 2023,
+      "color": "Black",
+      "price": 2000.00,
+      "features": ["Carbon Fiber Frame", "Disc Brakes", "Shimano Ultegra Components"]
+    },
+    {
+      "brand": "Schwinn",
+      "model": "Sycamore Hybrid",
+      "type": "Hybrid Bike",
+      "year": 2021,
+      "color": "Red",
+      "price": 500.00,
+      "features": ["Comfortable Saddle", "Multi-Speed", "Steel Frame"]
+    }
   ]
 }
